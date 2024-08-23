@@ -12,6 +12,8 @@ Duration-JULY TO AUGUST 2024
 Mentor-Muzammil Ahmed
 
 
+
+
 OVERVIEW OF THE PROJECT
 
 Project- creating a Python program to track and manage student grades.
